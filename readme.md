@@ -1,4 +1,4 @@
-#Coursera: Building Database application in PHP
+# Coursera: Building Database application in PHP
 - Course link: https://www.coursera.org/learn/database-applications-php
 
 - **Quick Course Overview**: In this course, I looked at the object oriented patterns available in PHP. I learned how to connect to a MySQL using the Portable Data Objects (PDO) library and issue SQL commands in the the PHP language. I also look at how PHP uses cookies and manages session data. I learn how PHP avoids double posting data, how flash messages are implemented, and how to use a session to log in users in web applications. I then build the first 'complete' application that has multiple screens to Create, Read, Update and Delete (CRUD) our data. This brings all the previous concepts together and will form the basis for all later web applications. 
